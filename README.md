@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**My Mods**
+### My Mods 🔭
 - Progress on the Path
 - Standarised Naming Convention
 - Worthwhile Gwent
