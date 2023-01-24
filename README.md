@@ -1,3 +1,10 @@
+# Introduction 
+Hey Everyone 👋 
+
+Below you can find a list of projects i am currently working on, if you would like to support me in my efforts please take a moment to click the link :)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C3I3NYN)
+
+
 ### My Mods 🔭
 - Progress on the Path
 - Standarised Naming Convention
