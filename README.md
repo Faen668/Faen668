@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-My mods
-The mods i made for the games i like:
-
-The Witcher 3:
+**My Mods**
 - Progress on the Path
+- Standarised Naming Convention
+- Worthwhile Gwent
 
 <!--
 **Faen668/Faen668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
