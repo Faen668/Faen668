@@ -5,7 +5,7 @@
     - [Worthwhile Gwent Reforged](https://github.com/Faen668/Worthwhile-Gwent-Reforged/releases "Click to Visit Releases")
 
   - Skyrim
-    - Completionist
+    - Completionist NG
     - Marked Treasure SSE
 
 # Support
