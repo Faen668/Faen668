@@ -5,8 +5,8 @@
     - [Worthwhile Gwent Reforged](https://github.com/Faen668/Worthwhile-Gwent-Reforged/releases "Click to Visit Releases")
 
   - Skyrim
-    - Completionist NG
-    - Marked Treasure SSE
+    - [Completionist - Skyrim Completion Tracker (NG)](https://www.nexusmods.com/skyrimspecialedition/mods/46358 "Click to Visit Mod")
+    - [Marked Treasure SSE](https://www.nexusmods.com/skyrimspecialedition/mods/46011 "Click to Visit Mod")
 
 # Support
 If you are experiencing any issues with any of my mods please raise an issue or alternatively you can join the [Discord](https://discord.gg/K6MS3cqWB7 "Click to Join Server") and ask away in there or find me on [Nexus Mods](https://www.nexusmods.com/users/138299963?tab=user+files "Click to Visit Site") 
