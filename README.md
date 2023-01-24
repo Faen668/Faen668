@@ -11,8 +11,12 @@ Hey Everyone 👋
     - Completionist
     - Marked Treasure SSE
 
+# Mod Support
+If you are experiencing any issues with any of my mods please raise an issue or alternatively you can join the [Discord](https://discord.gg/K6MS3cqWB7 "Click to Join Server")  and ask away in there!  
 # Donate
-If you would like dto say thankyou or support me in my work then please go ahead and do so here - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C3I3NYN)
+If you would like dto say thankyou or support me in my work then please go ahead and do so here [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C3I3NYN)
+
+
 <!--
 **Faen668/Faen668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
