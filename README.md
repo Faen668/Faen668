@@ -1,7 +1,4 @@
-# Introduction                   
-Hey Everyone 👋 
-
-# Projects
+# My Projects
   - The Witcher 3
     - [Progress on the Path](https://github.com/Faen668/Progress-On-The-Path/releases "Click to Visit Releases")
     - [Standarised Naming Convention](https://github.com/Faen668/Standardised-Naming-Convention/releases "Click to Visit Releases")
