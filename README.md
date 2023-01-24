@@ -1,7 +1,5 @@
-# Introduction 
+# Introduction                    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C3I3NYN)
 Hey Everyone 👋 
-
-Below you can find a list of projects i am currently working on, if you would like to support me in my efforts you can do so here - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C3I3NYN)
 
 # Projects
   - The Witcher 3
