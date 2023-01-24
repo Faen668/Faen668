@@ -5,7 +5,7 @@ Hey Everyone 👋
   - The Witcher 3
     - [Progress on the Path](https://github.com/Faen668/Progress-On-The-Path/releases "Click to Visit Releases")
     - [Standarised Naming Convention](https://github.com/Faen668/Standardised-Naming-Convention/releases "Click to Visit Releases")
-    - Worthwhile Gwent
+    - [Worthwhile Gwent Reforged](https://github.com/Faen668/Worthwhile-Gwent-Reforged/releases "Click to Visit Releases")
 
   - Skyrim
     - Completionist
