@@ -1,6 +1,7 @@
 # My Projects
   - The Witcher 3
     - [Botanist](https://github.com/Faen668/Botanist/releases "Click to Visit Releases")
+    - [Community Patch - World Map](https://github.com/Faen668/CommunityPatch_WorldMap)
     - [Progress on the Path](https://github.com/Faen668/Progress-On-The-Path/releases "Click to Visit Releases")
     - [Standarised Naming Convention](https://github.com/Faen668/Standardised-Naming-Convention/releases "Click to Visit Releases")
     - [Worthwhile Gwent Reforged](https://github.com/Faen668/Worthwhile-Gwent-Reforged/releases "Click to Visit Releases")
