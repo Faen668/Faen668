@@ -2,6 +2,7 @@
   - The Witcher 3
     - [Botanist](https://github.com/Faen668/Botanist/releases "Click to Visit Releases")
     - [Community Patch - World Map](https://github.com/Faen668/CommunityPatch_WorldMap)
+    - [Mum's The Word](https://github.com/Faen668/mums-the-word/releases "Click to Visit Releases")
     - [Progress on the Path](https://github.com/Faen668/Progress-On-The-Path/releases "Click to Visit Releases")
     - [Standarised Naming Convention - Bombs](https://github.com/Faen668/SNC-Bombs/releases "Click to Visit Releases")
     - [Standarised Naming Convention - Oils](https://github.com/Faen668/SNC-Oils/releases "Click to Visit Releases")
